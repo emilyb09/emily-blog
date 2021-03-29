@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Emily Blog
 tagline:          'A blog for Emily'
 description:      
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://emilyb09.github.io/emily-blog/
+baseurl:          https://emilyb09.github.io/emily-blog/
 
 author:
   name:           'Emily Bowman'
